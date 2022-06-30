@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210618T123000Z
+DTEND:20210618T133000Z
+DTSTAMP:20210611T074711Z
+ORGANIZER;CN=hrcare@systematixindia.com:mailto:hrcare@systematixindia.com
+UID:3gnijih3kditpvf6r700u26q3c@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ayush.thakur@systematixindia.com;X-NUM-GUESTS=0:mailto:ayush.thakur
+ @systematixindia.com
+X-MICROSOFT-CDO-OWNERAPPTID:-733306926
+CREATED:20210607T074908Z
+DESCRIPTION:Dear All\,<br><br>We invite you to an interactive one-hour sess
+ ion with SR this Friday\, to discuss the impending questions relating to Wo
+ rk/Life Balance in the post COVID era.<br><br>Let us take a moment to zoom 
+ out and look at the bigger picture\, as we sail through these unprecedented
+  times.&nbsp\;<br><br>Request you to share your thoughts or questions on th
+ e subject\, by EOD\, Thursday 10th June\, using this form -<br><br><a href=
+ "https://forms.gle/MHSxUSLQwnb3UDoC7">https://forms.gle/MHSxUSLQwnb3UDoC7</
+ a><br><br>Please confirm&nbsp\;your participation by accepting or declining
+  the calendar invite.&nbsp\;<br><br>The meeting URL will be shared later on
+ .<br><br>Thanks\,<br>Team HR\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this secti
+ on of the description.\n\nView your event at https://calendar.google.com/ca
+ lendar/event?action=VIEW&eid=M2duaWppaDNrZGl0cHZmNnI3MDB1MjZxM2MgYXl1c2gudG
+ hha3VyQHN5c3RlbWF0aXhpbmRpYS5jb20&tok=MjYjaHJjYXJlQHN5c3RlbWF0aXhpbmRpYS5jb
+ 20yZDc4NTJkZmI5YzNmZjZmNTgxMjhmZDM2Yzc0NjQxNjY0ZDRkNmVh&ctz=Asia%2FKolkata&
+ hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210611T074709Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Work/Life Integration!
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

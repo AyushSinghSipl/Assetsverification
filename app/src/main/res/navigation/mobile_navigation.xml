@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.mahyco.assetsverification.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_asset_detail"
+            app:destination="@id/nav_asset_detail" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_asset_detail"
+        android:name="com.mahyco.assetsverification.asset_verification.asset_detail.AssetDetailsFragment"
+        android:label="Asset details"
+        tools:layout="@layout/fragment_asset_details" >
+        <action
+            android:id="@+id/action_nav_asset_detail_to_nav_asset_status"
+            app:destination="@id/nav_asset_status" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_asset_status"
+        android:name="com.mahyco.assetsverification.asset_verification.asset_detail.asset_status.AssetStatusFragment"
+        android:label="Asset status"
+        tools:layout="@layout/fragment_asset_status" >
+        <action
+            android:id="@+id/action_nav_asset_status_to_nav_asset_verified"
+            app:destination="@id/nav_asset_verified" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_asset_verified"
+        android:name="com.mahyco.assetsverification.asset_verification.asset_detail.asset_verified.AssetVerifiedFragment"
+        android:label="Asset Verified"
+        tools:layout="@layout/fragment_asset_verified" >
+        <action
+            android:id="@+id/action_nav_asset_verified_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+</navigation>

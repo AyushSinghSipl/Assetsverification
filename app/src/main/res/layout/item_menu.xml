@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="14dp"
+    android:id="@+id/itemView"
+    android:background="@drawable/item_selected_bg"
+    android:layout_marginEnd="@dimen/dp_10">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/menu_icon"
+        android:background="@drawable/ic_baseline_home_24"
+        android:backgroundTint="@color/black"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:id="@+id/menu_name"
+        android:layout_marginStart="14dp"
+        android:textColor="@color/black"
+        android:textSize="14sp"/>
+
+</LinearLayout>

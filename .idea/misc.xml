@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/activity_home.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/content_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/dialog.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/fragment_asset_details.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/fragment_asset_status.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/fragment_asset_verified.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/fragment_thanks.xml" value="0.1921875" />
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/item_reason.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/layout_progressbar_with_text.xml" value="0.1921875" />
+        <entry key="..\:/Users/r/AndroidStudioProjects/AssetsVerification/app/src/main/res/layout/nav_header_home.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

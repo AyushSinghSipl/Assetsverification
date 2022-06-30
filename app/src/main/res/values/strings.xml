@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Assets Verification</string>
+    <string name="app_name_long">Assets verification</string>
+
+
+    <string name="enter_emp_code">Enter Employee Code</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register New User</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="enter_pass_set">Set Password</string>
+    <string name="register_rg">Register</string>
+    <string name="e_sign">E-Sign</string>
+    <string name="reset_pass">Reset Password</string>
+    <string name="skip_login">Skip Login</string>
+
+    <string name="digital_agreement">Digital Agreement</string>
+    <string name="download_grower_list">Download Grower List</string>
+    <string name="download_cmr_data">Download CMR Data</string>
+    <string name="field_area_tagging">Field Area Tagging</string>
+    <string name="cmr_entry">CMR Entry</string>
+    <string name="cmr_validation">CMR Validation</string>
+    <string name="cmr_update">CMR Update</string>
+    <string name="data_upload_sync">Data Upload/Sync</string>
+    <string name="grower_info">Grower Info</string>
+    <string name="grower_issue">Grower Issues</string>
+    <string name="my_travel">My Travel</string>
+    <string name="travel_report">Travel report</string>
+    <string name="be_voice_of_grower">BE - Voice of Grower</string>
+    <string name="voct">VOCT</string>
+    <string name="proceed">Proceed</string>
+
+    <string name="server_error">Something went wrong, Please try again later</string>
+    <string name="no_internet">No Internet</string>
+    <string name="select_season">Please Select Year with season</string>
+    <string name="select_center">"Select center "</string>
+    <string name="select_vender">Select Vendor</string>
+    <string name="select_product">Select Product</string>
+    <string name="get_details">Get Details</string>
+    <string name="enter_witness_one_name">Enter Witness One Name</string>
+    <string name="enter_witness_one_add">Enter Witness One Address</string>
+    <string name="enter_witness_one_village">Enter Witness One Village</string>
+    <string name="enter_witness_one_district">Enter witness one district</string>
+    <string name="enter_witness_one_pno">Enter Witness One Phone Number</string>
+    <string name="enter_witness_two_name">Enter witness two name</string>
+    <string name="enter_witness_two_add">Enter witness two address</string>
+    <string name="enter_witness_two_village">Enter witness two village name</string>
+    <string name="enter_witness_two_district">Enter witness to district name</string>
+    <string name="enter_witness_two_pno">Enter witness two phone number</string>
+    <string name="enter_first_party_name">Enter First Party representative name</string>
+    <string name="enter_first_party_pno">Enter First Party representative phone number</string>
+    <string name="enter_grower_name">Enter Grower full name</string>
+    <string name="enter_grower_pno">Enter grower Phone number</string>
+    <string name="start_agreement">Start Agreement</string>
+    <string name="title">Title</string>
+    <string name="link">Link</string>
+    <string name="installapp">Please install Leegality Helper App</string>
+    <string name="scan_aadhaar_w1">Scan Aadhaar for Witness One</string>
+    <string name="scan_aadhaar_w2">Scan Aadhaar for Witness Two</string>
+    <string name="btn_download_data">Download Data</string>
+    <string name="download_data">Download Data</string>
+    <string name="download">Download</string>
+    <string name="enter_staff_code">Enter Staff Code</string>
+    <string name="enter_tfa_code">Enter TFA Code</string>
+    <string name="download_survey_gw">Download Survey Grower</string>
+    <string name="next">Next</string>
+    <string name="cmr_data">CMR Data</string>
+    <string name="tag_data">TAG Data</string>
+    <string name="cmr_insurance">INSURANCE</string>
+    <string name="cmr_be_vog">BE-VOG</string>
+    <string name="cmr_10">CMR 10</string>
+    <string name="cmr_20">CMR 20</string>
+    <string name="cmr_30">CMR 30</string>
+    <string name="cmr_40">CMR 40</string>
+    <string name="cmr_nursery_data">Nursery Data</string>
+    <string name="tv_total_records">Total Remaining Records for Upload =</string>
+    <string name="upload">Upload</string>
+    <string name="upload_tag_data">Upload Tag Data</string>
+    <string name="upload_insurance_data">Upload Insurance Data</string>
+    <string name="upload_my_travel_data">My Travel Data Upload</string>
+    <string name="upload_be_vog">Upload BE-VOG</string>
+    <string name="start_tour">Start Tour For Today</string>
+    <string name="enter_staff_tfa">Enter Staff / TFA Code</string>
+    <string name="enter_start_location">Start Location/Place</string>
+    <string name="enter_start_reading_km">Start Reading (KM)</string>
+    <string name="tour_start">Start Tour</string>
+    <string name="tour_start1">Tour Start</string>
+    <string name="geo_tag">Geo Tag</string>
+    <string name="vehicle_km">Vehicle KM</string>
+
+
+    <!--Image library string-->
+    <string name="no_providers">No providers available to show.</string>
+    <string name="wrong_authority">FileProvider not declared or has wrong authority. (Must be ${applicationId}.com.mahyco.cmr_app.provider, check your AndroidManifest.xml)</string>
+    <string name="activity_destroyed">Activity was destroyed, can\'t handle pick image result.</string>
+    <string name="gallery_app_not_found">Gallery app not found.</string>
+    <string name="loading">Loading...</string>
+    <string name="choose">Choose</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="GPSAlertDialogTitle">Turn on location</string>
+    <string name="action_settings">Setting</string>
+    <string name="GPSAlertDialogMessage">Please turn GPS on</string>
+    <string name="submit">SUBMIT</string>
+    <string name="home">HOME</string>
+    <string name="cancel_scan">CANCEL SCAN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="profile">PROFILE</string>
+    <string name="setting">SETTING</string>
+    <string name="congratulat">Congratulations \nProduct is successfully \nVerified</string>
+    <string name="confirm_details">Confirm Details</string>
+    <string name="mismatch_details">Mismatch Details</string>
+    <string name="verify">Verify</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="comments_on_mismatch_data">COMMENTS ON MISMATCH DATA</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">12dp</dimen>
+
+    <dimen name="btn_padding">7dp</dimen>
+    <dimen name="card_wh">170dp</dimen>
+    <dimen name="card_wh1">150dp</dimen>
+    <dimen name="card_height">50dp</dimen>
+    <dimen name="card_height_upload">120dp</dimen>
+    <dimen name="card_height1">210dp</dimen>
+
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_25">25dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="dp_32">35dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_70">70dp</dimen>
+    <dimen name="ts_14">14sp</dimen>
+    <dimen name="ts_16">16sp</dimen>
+    <dimen name="ts_20">20sp</dimen>
+    <dimen name="ts_24">24sp</dimen>
+    <dimen name="ts_28">28sp</dimen>
+    <dimen name="dp_50">50dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_180">180dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_82">82dp</dimen>
+    <dimen name="btn_wdt">150dp</dimen>
+    <dimen name="dp_230">230dp</dimen>
+    <dimen name="long_btn">270dp</dimen>
+    <dimen name="dp_35">35dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">150dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

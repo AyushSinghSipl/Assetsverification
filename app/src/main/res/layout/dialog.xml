@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:background="@drawable/home_bg">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/comments_on_mismatch_data"
+        android:id="@+id/text_dialog"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="14sp"
+        android:textFontWeight="600"
+        android:textColor="#000000"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_100"
+        android:layout_below="@id/text_dialog"
+        android:gravity="start"
+        android:padding="@dimen/dp_5"
+        android:id="@+id/editTextReason"
+        android:layout_marginHorizontal="@dimen/dp_30"
+        android:layout_marginVertical="@dimen/dp_10"
+        android:background="@drawable/background_edit" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/dp_20"
+            android:background="@drawable/border_btn_red"
+            android:backgroundTint="@color/red"
+            android:paddingHorizontal="@dimen/dp_20"
+            android:paddingVertical="@dimen/dp_10"
+            android:text="@string/cancel"
+            android:id="@+id/btnCancel"
+            android:layout_marginEnd="@dimen/dp_10"
+            android:textColor="#ffffffff" />
+        <TextView
+            android:id="@+id/btnSubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/border_btn"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="Submit"
+            android:layout_marginStart="@dimen/dp_10"
+            android:paddingVertical="@dimen/dp_10"
+            android:paddingHorizontal="@dimen/dp_20"
+            android:layout_alignParentEnd="true"
+            android:textColor="#ffffffff" />
+
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
